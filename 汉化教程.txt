@@ -1,0 +1,19 @@
+Clash for Windows V0.20.39汉化版
+
+clash for windows中文版
+通过更改app.asar中的renderer.js和main.js文件以实现汉化
+
+Clash.for.Windows_Chinese.Setup.0.20.39.exe使用说明:
+
+按照一般流程安装/更新
+透过该安装程序安装的Clash for Windows将会劫持内置更新，因此更新可以选择在软件内完成
+app.asar使用说明:
+
+关闭clash
+用在此下载的app.asar替换掉Clash.for.Windows-0.20.39-win/resources/app.asar
+app.7z使用说明:
+
+解压后将得到app.asar文件，其余使用步骤与上方app.asar使用说明一样
+Clash.for.Windows-0.20.39-win.7z使用说明:
+
+解压后运行Clash for Windows.exe开始使用
